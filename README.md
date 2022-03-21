@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### Profile Views :
   <img src="https://profile-counter.glitch.me/Nekzus/count.svg" />
   
+  ![Profile views](https://gpvc.arturio.dev/Nekzus)  <img src="https://img.shields.io/github/followers/Nekzus?label=Follow" style=" float:left, margin-right:10px" />
+  
   ---
 
 ### Tech & Tools Preference : 🛠
