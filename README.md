@@ -49,22 +49,8 @@ Here are some ideas to get you started:
 
 ## My weekly Waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 133 Contributions in the Year 2022
- > 
-> 📦 37.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -103,13 +89,6 @@ JSON                     28 mins             ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  29 hrs 19 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-2da-Entrega-Proyecto-Fina29 hrs 17 mins      █████████████████████████   99.92% 
-Modular Codigo - septima 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-💻 Operating System: 
-Windows                  29 hrs 19 mins      █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,6 +108,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/03/2022 02:07:52 UTC
+ Last Updated on 22/03/2022 02:12:23 UTC
 <!--END_SECTION:waka-->
 
