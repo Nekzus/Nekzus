@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ---
 
 
-## My weekly Waka stats
+## My waka stats
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
