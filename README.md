@@ -4,9 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=31C4F7&vCenter=true&width=500&height=30&lines=Bienvenid%40;Mi+nombre+es+Mauricio+Ortega.;Soy+Desarrollador+Front+End.;Espero+encuentres+lo+que+buscas.;Tienes+mis+datos+de+contacto.;Que+la+fuerza+te+acompa%C3%B1e.)](https://git.io/typing-svg)
 
 <br />
-<a href="https://www.linkedin.com/in/mauricio-sebasti%C3%A1n-ortega-71b43788/">
-  <img align="left" alt="Linkedin Nekzus" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/mauricio-sebasti%C3%A1n-ortega-71b43788/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  
+</div>
+
 <br />
 
 
