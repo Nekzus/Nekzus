@@ -118,3 +118,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
+
+### My Spotify Listening :
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></div>
+
+---
