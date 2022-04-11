@@ -1,7 +1,7 @@
 ### Hi there. I'm Mauricio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br /> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=31C4F7&vCenter=true&width=500&lines=Bienvenid%40;Mi+nombre+es+Mauricio+Ortega.;Soy+Desarrollador+Front+End.;Espero+encuentres+lo+que+buscas.;Tienes+mis+datos+de+contacto.;Que+la+fuerza+te+acompa%C3%B1e.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=31C4F7&vCenter=true&width=500&height=30&lines=Bienvenid%40;Mi+nombre+es+Mauricio+Ortega.;Soy+Desarrollador+Front+End.;Espero+encuentres+lo+que+buscas.;Tienes+mis+datos+de+contacto.;Que+la+fuerza+te+acompa%C3%B1e.)](https://git.io/typing-svg)
 
 <br />
 <a href="https://www.linkedin.com/in/mauricio-sebasti%C3%A1n-ortega-71b43788/">
