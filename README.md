@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 
 ## My waka stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%201%20min-blue)
+
 **I'm a Night 🦉** 
 
 ```text
