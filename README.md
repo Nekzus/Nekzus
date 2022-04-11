@@ -52,10 +52,14 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
+<div align="center">
+  
 ![Mauricio Ortega Github Stats](https://github-readme-stats.vercel.app/api?username=Nekzus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekzus&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+</div>
+  
 ---
 
 ### Profile Visits :
