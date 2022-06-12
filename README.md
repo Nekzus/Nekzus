@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2029%20mins-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 🌙 Night      109 commits    ██████░░░░░░░░░░░░░░░░░░░   23.64%
 
 ```
-📅 **I'm most productive on Saturday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
@@ -96,7 +96,7 @@ Sunday       96 commits     █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
@@ -116,7 +116,7 @@ Linux                    6 hrs 23 mins       ███████████�
 
 ```
 
-**💻 I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               26 repos            ██████████████░░░░░░░░░░░   56.52% 
@@ -133,7 +133,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:58:04 UTC
+ Last Updated on 12/06/2022 08:29:01 UTC
 <!--END_SECTION:waka-->
 
 ---
