@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -138,7 +138,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2022 14:59:04 UTC
+ Last Updated on 23/06/2022 15:30:22 UTC
 <!--END_SECTION:waka-->
 
 ---
