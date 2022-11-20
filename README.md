@@ -144,4 +144,3 @@ CSS                      2 repos             ░░░░░░░░░░░�
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></div>
 
 ---
-<!-- START gadpp -->
