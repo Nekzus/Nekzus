@@ -132,11 +132,13 @@ Dart                     2 repos             ░░░░░░░░░░░�
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
 
 ```
-
-
-
  Last Updated on 20/11/2022 21:54:23 UTC
 <!--END_SECTION:waka-->
+---
+
+## Timeline: ⌚
+
+![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
 
 ---
 ## My Spotify: 🎧
