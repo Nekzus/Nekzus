@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### Profile Visits :
   
-![Profile views](https://gpvc.arturio.dev/Nekzus)  <img src="https://img.shields.io/github/followers/Nekzus?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=nekzus&style=flat-square)
 
 ---
 
