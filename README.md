@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Mauricio Ortega Github Stats](https://github-readme-stats.vercel.app/api?username=Nekzus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Mauricio Ortega Github Stats](https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </div>
   
@@ -135,7 +135,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 14:52:21 UTC
+ Last Updated on 06/12/2022 14:25:55 UTC
 <!--END_SECTION:waka-->
 ---
 
