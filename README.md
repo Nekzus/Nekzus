@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### Profile Visits :
   
-![Profile views](https://komarev.com/ghpvc/?username=nekzus&style=flat-square)
+[![Image of https://github.com/Nekzus/my-views-counter](https://github.com/Nekzus/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Nekzus/my-views-counter)
 
 ---
 
