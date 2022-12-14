@@ -57,10 +57,27 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+
+
+[![Mauricio Ortega GitHub stats-Dark](https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Nekzus/github-readme-stats#gh-dark-mode-only)
   
-![Mauricio Ortega Github Stats](https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Top Langs stats-Dark](https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Nekzus/github-readme-stats#gh-dark-mode-only)
+
+<!--
+<picture>
+<source 
+  srcset="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true" />
+</picture>
 
 ![Top Langs](https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
 
 </div>
   
