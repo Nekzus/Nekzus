@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C594%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C593%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-520%20Thousand%20lines%20of%20code-blue)
 
@@ -152,7 +152,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2022 02:55:58 UTC
+ Last Updated on 21/12/2022 03:07:32 UTC
 <!--END_SECTION:waka-->
 ---
 
