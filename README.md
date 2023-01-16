@@ -76,7 +76,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-542%20Thousand%20lines%20of%20code-blue)
 
@@ -136,7 +136,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2023 01:37:42 UTC
+ Last Updated on 16/01/2023 02:12:19 UTC
 <!--END_SECTION:waka-->
 ---
 
