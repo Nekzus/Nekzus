@@ -137,8 +137,10 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ---
 
 ## Timeline: ⌚
-
+<!--
 ![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
+-->
+<div align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></div>
 
 ---
 ## My Spotify: 🎧
