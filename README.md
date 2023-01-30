@@ -134,10 +134,6 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 ```
 
-
-
- Last Updated on 30/01/2023 00:34:49 UTC
-<!--END_SECTION:waka-->
 ---
 
 ## Timeline: ⌚
@@ -150,3 +146,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></div>
 
 ---
+Last Updated on 30/01/2023 00:34:49 UTC
+<!--END_SECTION:waka-->
