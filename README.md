@@ -133,8 +133,19 @@ Dart                     2 repos             ░░░░░░░░░░░�
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 ```
-
-
-
  Last Updated on 30/01/2023 14:12:17 UTC
 <!--END_SECTION:waka-->
+
+---
+## Timeline: ⌚
+<!--
+![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
+-->
+<div align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></div>
+
+---
+## My Spotify: 🎧
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></div>
+
+---
