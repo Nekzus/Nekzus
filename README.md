@@ -143,13 +143,15 @@ CSS                      2 repos             ░░░░░░░░░░░�
  Last Updated on 02/02/2023 00:14:53 UTC
 <!--END_SECTION:waka-->
 
----
-## Timeline: ⌚
 <!--
-![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
--->
-<div align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></div>
+---
 
+## Timeline: ⌚
+
+![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
+
+<div align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></div>
+-->
 ---
 ## My Spotify: 🎧
 
