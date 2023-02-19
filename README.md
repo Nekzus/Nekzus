@@ -77,7 +77,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721%20Thousand%20lines%20of%20code-blue)
 
@@ -141,7 +141,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2023 00:50:45 UTC
+ Last Updated on 19/02/2023 01:31:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
