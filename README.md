@@ -77,7 +77,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C848%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-771.6%20thousand%20lines%20of%20code-blue)
 
@@ -108,13 +108,15 @@ Sunday                   178 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+Python                   21 mins             █████████████████████████   98.41 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +136,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2023 03:00:31 UTC
+ Last Updated on 09/03/2023 03:14:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
