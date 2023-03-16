@@ -108,15 +108,13 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Python                   21 mins             █████████████████████████   98.41 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -136,7 +134,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2023 03:01:42 UTC
+ Last Updated on 16/03/2023 03:20:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
