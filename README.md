@@ -43,10 +43,32 @@
 
 <div align="center">
 
-
+<!--
 [![Mauricio Ortega GitHub stats-Dark](https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Nekzus/github-readme-stats#gh-dark-mode-only)
   
 [![Top Langs stats-Dark](https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Nekzus/github-readme-stats#gh-dark-mode-only)
+-->
+  
+  <!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mauricio Ortega's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mauricio Ortega's Github stats" />
+</a>
+</div>
+
 
 <!--
 <picture>
