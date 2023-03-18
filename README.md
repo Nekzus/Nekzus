@@ -46,10 +46,10 @@
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Language stats" />
+<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Github stats" />
+<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&border_color=000000&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Github stats" />
 </a>
 </div>
 
@@ -101,20 +101,20 @@
 
 ```text
 🌞 Morning                21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-🌆 Daytime                337 commits         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-🌃 Evening                718 commits         █████████████░░░░░░░░░░░░   52.91 % 
-🌙 Night                  281 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+🌆 Daytime                333 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+🌃 Evening                718 commits         █████████████░░░░░░░░░░░░   53.07 % 
+🌙 Night                  281 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Wednesday                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Thursday                 116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Saturday                 230 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Monday                   238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Wednesday                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Thursday                 116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Friday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Saturday                 226 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
 ```
 
 
@@ -150,7 +150,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2023 18:21:06 UTC
+ Last Updated on 18/03/2023 18:01:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
