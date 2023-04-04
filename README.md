@@ -93,7 +93,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C848%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C848%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -124,13 +124,17 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JSON                     1 min               █████████████████████████   100.00 % 
+Dart                     40 mins             █████████████████████░░░░   83.92 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +154,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2023 03:03:04 UTC
+ Last Updated on 04/04/2023 03:21:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
