@@ -154,7 +154,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
  Last Updated on 26/04/2023 19:18:41 UTC
 <!--END_SECTION:waka-->
 
-[![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
+[![Contributions in 3D](/profile-3d-contrib/profile-night-green.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
 
 <!--
 ---
