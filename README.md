@@ -136,10 +136,12 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
  Last Updated on 27/04/2023 17:32:34 UTC
 <!--END_SECTION:waka-->
-
-[![Contributions in 3D](/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)](https://github.com/marketplace/actions/github-profile-3d-contrib)
-[![Contributions in 3D](/profile-3d-contrib/profile-green.svg#gh-light-mode-only)](https://github.com/marketplace/actions/github-profile-3d-contrib)
-
+<a href="https://github.com/marketplace/actions/github-profile-3d-contrib#gh-dark-mode-only">
+  <img src="/profile-3d-contrib/profile-night-green.svg"/>
+</a>
+<a href="https://github.com/marketplace/actions/github-profile-3d-contrib##gh-light-mode-only">
+  <img src="/profile-3d-contrib/profile-green.svg"/>
+</a>
 
 <!--
 ---
