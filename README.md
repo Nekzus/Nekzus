@@ -151,6 +151,15 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
  Last Updated on 28/04/2023 15:32:34 UTC
 <!--END_SECTION:waka-->
+
+<!-- Profile 3D Dark/Light Mode -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
+<source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green.svg">
+<img width="85%" alt="Profile 3D Contrib" src="/profile-3d-contrib/profile-green.svg">
+</picture>
+
+<!--
 <a href="https://github.com/marketplace/actions/github-profile-3d-contrib#gh-dark-mode-only">
   <img src="/profile-3d-contrib/profile-night-green.svg"/>
 </a>
@@ -158,7 +167,6 @@ Svelte                   1 repo              ░░░░░░░░░░░�
   <img src="/profile-3d-contrib/profile-green.svg"/>
 </a>
 
-<!--
 ---
 
 ## Timeline: ⌚
