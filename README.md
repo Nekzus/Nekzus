@@ -43,20 +43,22 @@
 
 <div align="center">
 
-<!-- Dark Mode 
+<!-- Language Stats Dark/Light Mode -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000">
-<img height=200 alt="Mauricio Ortega's Language stats" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner,collaborator&theme=default">
-</picture>
- -->
-  
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-<img height=50 alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner-collaborator&theme=default">
+<img height=200 alt="Mauricio Ortega's Language Stats" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner-collaborator&theme=default">
 </picture>
 
-<!-- Dark Mode -->
+<!-- Github Stats Dark/Light Mode -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&border_color=000000&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=default">
+<img height=200 alt="Mauricio Ortega's Github Stats" src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&border_color=000000&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=default">
+</picture>
+
+
+<!-- Dark Mode 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mauricio Ortega's Language stats" />
@@ -65,8 +67,8 @@
 <img height=200 src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mauricio Ortega's Github stats" />
 </a>
 </div>
-
-<!-- Light Mode -->
+-->
+<!-- Light Mode
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Language stats" />
@@ -75,7 +77,7 @@
 <img height=200 src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&border_color=000000&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Mauricio Ortega's Github stats" />
 </a>
 </div>
-  
+-->
 </div>
   
 ---
