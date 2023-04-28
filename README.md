@@ -46,7 +46,7 @@
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=transparent&bg_color=000000#gh-dark-mode-only" alt="Mauricio Ortega's Language stats" />
+<img height=200 src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css,html,less&layout=compact&langs_count=10&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mauricio Ortega's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mauricio Ortega's Github stats" />
