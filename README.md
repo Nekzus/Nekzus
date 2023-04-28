@@ -154,9 +154,9 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 <!-- Profile 3D Dark/Light Mode -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
-<source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green.svg">
-<img alt="Profile 3D Contrib" src="/profile-3d-contrib/profile-green.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+<source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+<img alt="Profile 3D Contrib" src="./profile-3d-contrib/profile-green.svg">
 </picture>
 
 <!--
