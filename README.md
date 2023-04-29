@@ -47,14 +47,14 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner-collaborator&theme=default">
-<img height=200 alt="Mauricio Ortega's Language Stats" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner-collaborator&theme=default#gh-light-mode-only">
+<img height=200 alt="Mauricio Ortega's Language Stats" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=43200&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000">
 </picture>
 
 <!-- Github Stats Dark/Light Mode -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&border_color=000000&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=default">
-<img height=200 alt="Mauricio Ortega's Github Stats" src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&border_color=000000&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=default">
+<img height=200 alt="Mauricio Ortega's Github Stats" src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=43200&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000">
 </picture>
 
 
