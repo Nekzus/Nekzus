@@ -50,11 +50,11 @@
 <img height=200 alt="Mauricio Ortega's Language Stats" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=86400&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000">
 </picture>
 -->
-<div>
+<div align="center">
   <img align="center" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&bg_color=00000000" alt="Mauricio's Language Stats"/>
 </div>
   
-<div> 
+<div align="center"> 
  <img align="center" src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&bg_color=00000000" alt="Mauricio's GitHub Stats"/>
 </div>
 <!-- Github Stats Dark/Light Mode 
