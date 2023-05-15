@@ -50,13 +50,13 @@
 <img height=200 alt="Mauricio Ortega's Language Stats" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=86400&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000">
 </picture>
 -->
-<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css-html-less&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&bg_color=00000000" alt="Mauricio's Language Stats"/>
-</div>
+</a>
   
-<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
  <img align="center" src="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&bg_color=00000000" alt="Mauricio's GitHub Stats"/>
-</div>
+</a>
 <!-- Github Stats Dark/Light Mode 
 <picture>
 <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&cache_seconds=86400&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000">
