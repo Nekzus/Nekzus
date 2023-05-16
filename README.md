@@ -1,11 +1,11 @@
 ### Hi there. I'm Mauricio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br /> 
 
-<div align="center">
+<p align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&center=true&vCenter=true&width=650&height=40&lines=WELCOME!;My+name+is+Mauricio+Ortega...;I+am+a+Front-End+Developer...;I+hope+you+find+what+you+are+looking+for...;You+have+my+contact+information...;MAY+THE+FORCE+BE+WITH+YOU...)](https://git.io/typing-svg)
 
-</div>
+</p>
   
 <br />
 
@@ -175,11 +175,11 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 ![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
 
-<div align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></div>
+<p align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></p>
 -->
 ---
 ## My Spotify: 🎧
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></div>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></p>
 
 ---
