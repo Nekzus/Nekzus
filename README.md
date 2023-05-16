@@ -41,7 +41,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-<div align="center">
+<p align="center">
 
 <!-- Language Stats Dark/Light Mode -->
 <picture>
@@ -77,7 +77,7 @@
 </a>
 </div>
 -->
-</div>
+</p>
   
 ---
 
