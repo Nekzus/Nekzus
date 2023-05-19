@@ -1,4 +1,4 @@
-name: Generar imágenes de perfil
+name: Github Status Readme
 
 on:
   schedule:
