@@ -23,7 +23,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: top-langs
-          path: assets/profile-image.svg
+          path: ./assets/profile-image.svg
 
       - name: Commit y push al repositorio
         uses: ad-m/github-push-action@master
