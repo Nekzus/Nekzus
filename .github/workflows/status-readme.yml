@@ -1,4 +1,4 @@
-name: Generar imagen de perfil
+name: Generar imágenes de perfil
 
 on:
   schedule:
@@ -6,24 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-image:
+  generate-images:
     runs-on: ubuntu-latest
 
     steps:
       - name: Ejecutar solicitud HTTP
         uses: actions/checkout@v2
 
-      - name: Generar imagen
-        run: curl -o assets/profile-image.svg "https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=86400&hide=css%2Chtml%2Cless&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000"
+      - name: Generar imágenes en modo oscuro
+        run: |
+          curl -o assets/top-langs-dark.svg "https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css%2Chtml%2Cless&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000"
+          curl -o assets/gh-stats-dark.svg "https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000&rank_icon=default"
 
-      - name: Verificar archivo generado
+      - name: Generar imágenes en modo claro
+        run: |
+          curl -o assets/top-langs-light.svg "https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&hide=css%2Chtml%2Cless&layout=compact&langs_count=10&hide_border=false&border_color=000000&role=owner-collaborator&theme=default"
+          curl -o assets/gh-stats-light.svg "https://github-readme-stats-nekzus.vercel.app/api?username=Nekzus&show_icons=true&count_private=true&line_height=28&hide_border=false&border_color=000000&card_width=450&include_all_commits=true&role=owner-collaborator&exclude_repo=github-readme-stats&theme=default&rank_icon=default"
+
+      - name: Verificar archivos generados
         run: ls assets
-
-      - name: Subir imagen generada
-        uses: actions/upload-artifact@v2
-        with:
-          name: top-langs
-          path: ./assets/profile-image.svg
 
       - name: Configurar Git
         run: |
@@ -32,8 +33,8 @@ jobs:
 
       - name: Agregar y confirmar cambios
         run: |
-          git add assets/profile-image.svg
-          git commit -m "Actualizar imagen de perfil"
+          git add assets/top-langs-dark.svg assets/gh-stats-dark.svg assets/top-langs-light.svg assets/gh-stats-light.svg
+          git commit -m "Actualizar imágenes de perfil"
 
       - name: Commit y push al repositorio
         uses: ad-m/github-push-action@master
