@@ -19,7 +19,7 @@ jobs:
         run: ls assets
 
       - name: Subir imagen generada
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
-          name: profile-image
-          path: ./assets/profile-image.svg
+          name: top-langs
+          path: ./status/top-langs-dark.svg
