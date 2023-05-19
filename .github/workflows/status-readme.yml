@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Ejecutar solicitud HTTP
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generar imagen
         run: curl -o assets/profile-image.svg "https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=86400&hide=css%2Chtml%2Cless&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000"
@@ -20,7 +20,7 @@ jobs:
         run: ls assets
 
       - name: Subir imagen generada
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: top-langs
           path: ./assets/profile-image.svg
