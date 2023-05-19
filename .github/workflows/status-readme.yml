@@ -19,7 +19,7 @@ jobs:
         run: ls assets
 
       - name: Subir imagen generada
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: top-langs
           path: ./assets/top-langs-dark.svg
