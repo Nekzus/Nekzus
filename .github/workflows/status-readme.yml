@@ -4,13 +4,14 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
+
 jobs:
   generate-image:
     runs-on: ubuntu-latest
 
     steps:
       - name: Ejecutar solicitud HTTP
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Generar imagen
         run: curl -o assets/profile-image.svg "https://github-readme-stats-nekzus.vercel.app/api/top-langs/?username=Nekzus&cache_seconds=86400&hide=css%2Chtml%2Cless&layout=compact&langs_count=10&hide_border=false&role=owner-collaborator&theme=dark&bg_color=000000"
@@ -19,7 +20,12 @@ jobs:
         run: ls assets
 
       - name: Subir imagen generada
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: top-langs
-          path: assets/top-langs-dark.svg
+          path: assets/profile-image.svg
+
+      - name: Commit y push al repositorio
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_PAT }
