@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Ejecutar solicitud HTTP
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generar imágenes en modo oscuro
         run: |
