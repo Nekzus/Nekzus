@@ -34,7 +34,7 @@ jobs:
       - name: Agregar y confirmar cambios
         run: |
           git add assets/top-langs-dark.svg assets/gh-stats-dark.svg assets/top-langs-light.svg assets/gh-stats-light.svg
-          git commit -m "Actualizar imágenes de perfil"
+          git diff-index --quiet HEAD || git commit -m "Actualizar imágenes de perfil"
 
       - name: Commit y push al repositorio
         uses: ad-m/github-push-action@master
