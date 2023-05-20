@@ -28,13 +28,13 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
 
       - name: Add and commit changes
         run: |
-          git add assets/top-langs-dark.svg assets/gh-stats-dark.svg assets/top-langs-light.svg assets/gh-stats-light.svg
-          git diff-index --quiet HEAD || git commit -m "Update profile images"
+         git add assets/top-langs-dark.svg assets/gh-stats-dark.svg assets/top-langs-light.svg assets/gh-stats-light.svg
+         git diff-index --quiet HEAD || git commit -m "Update profile images for Github Readme Stats"
 
       - name: Commit and push to repository
         uses: ad-m/github-push-action@master
