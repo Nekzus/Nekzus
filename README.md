@@ -171,13 +171,13 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
-&nbsp;
 <picture>
+<a href="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-night-green.svg">
 <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-night-green.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-green.svg">
 <img alt="Profile 3D Contrib" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-night-green.svg">
 </picture>
-&nbsp;
+</a>
   
 <!--
 <a href="https://github.com/marketplace/actions/github-profile-3d-contrib#gh-dark-mode-only">
