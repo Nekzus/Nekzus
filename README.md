@@ -137,17 +137,13 @@ Sunday                   273 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Vue.js                   18 mins             ███████████░░░░░░░░░░░░░░   45.21 % 
-TypeScript               15 mins             █████████░░░░░░░░░░░░░░░░   37.97 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -167,7 +163,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2023 03:07:00 UTC
+ Last Updated on 16/08/2023 06:07:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
