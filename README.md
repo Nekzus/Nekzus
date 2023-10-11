@@ -1,10 +1,15 @@
-### Hi there. I'm Mauricio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<br /> 
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&vCenter=true&width=650&height=40&lines=WELCOME!;My+name+is+Mauricio+Ortega...;I+am+a+Front-End+Developer...;I+hope+you+find+what+you+are+looking+for...;You+have+my+contact+information...;MAY+THE+FORCE+BE+WITH+YOU...)](https://git.io/typing-svg)
 
 <p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&center=true&vCenter=true&width=650&height=40&lines=WELCOME!;My+name+is+Mauricio+Ortega...;I+am+a+Front-End+Developer...;I+hope+you+find+what+you+are+looking+for...;You+have+my+contact+information...;MAY+THE+FORCE+BE+WITH+YOU...)](https://git.io/typing-svg)
 
+<picture>
+<source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://res.cloudinary.com/dsvsl0b0b/image/upload/v1697067224/Github/banner-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsvsl0b0b/image/upload/v1697067224/Github/banner-light.png">
+<img height=250 alt="Mauricio Ortega's Banner" src="https://res.cloudinary.com/dsvsl0b0b/image/upload/v1697067224/Github/banner-dark.png">
+</picture>
+  
 </p>
   
 <br />
