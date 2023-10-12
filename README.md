@@ -7,7 +7,7 @@
 <picture>
 <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://res.cloudinary.com/dsvsl0b0b/image/upload/v1697067224/Github/banner-dark.png">
 <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dsvsl0b0b/image/upload/v1697067224/Github/banner-light.png">
-<img width=60% alt="Mauricio Ortega's Banner" src="https://res.cloudinary.com/dsvsl0b0b/image/upload/v1697067224/Github/banner-dark.png">
+<img width=85% alt="Mauricio Ortega's Banner" src="https://res.cloudinary.com/dsvsl0b0b/image/upload/v1697067224/Github/banner-dark.png">
 </picture>
   
 </p>
