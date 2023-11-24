@@ -58,9 +58,9 @@
 
 <!-- Language Stats Dark/Light Mode -->
 <picture>
-<source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/top-langs-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/top-langs-light.svg">
-<img height=200 alt="Mauricio Ortega's Language Stats" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/top-langs-dark.svg">
+<source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/top-langs-dark.svg?cache=unique-parameter">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/top-langs-light.svg?cache=unique-parameter">
+<img height=200 alt="Mauricio Ortega's Language Stats" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/top-langs-dark.svg?cache=unique-parameter">
 </picture>
   
 <!-- Language Stats Dark/Light Mode 
@@ -73,9 +73,9 @@
   
 <!-- Github Stats Dark/Light Mode -->
 <picture>
-<source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/gh-stats-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/gh-stats-light.svg">
-<img height=200 alt="Mauricio Ortega's Github Stats" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/gh-stats-dark.svg">
+<source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/gh-stats-dark.svg?cache=unique-parameter">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/gh-stats-light.svg?cache=unique-parameter">
+<img height=200 alt="Mauricio Ortega's Github Stats" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/gh-stats-dark.svg?cache=unique-parameter">
 </picture>
   
  <!-- Github Stats Dark/Light Mode 
