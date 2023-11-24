@@ -188,7 +188,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 <picture>
 <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-night-green.svg?cache=unique-parameter">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-green.svg?cache=unique-parameter">
-<img alt="Profile 3D Contrib" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-night-green.svg?cache=unique-parameter">
+<img alt="Profile 3D Contrib" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/profile-3d-contrib/profile-night-green.svg?cache=unique-parameter" onload="this.style.opacity=1;">
 </picture>
 </a>
   
