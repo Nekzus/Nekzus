@@ -13,9 +13,9 @@
 -->
 
 <picture>
-<source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/banner-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/banner-light.svg">
-<img width=85% alt="Mauricio Ortega's Banner" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/banner-dark.svg">
+<source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/banner-dark.svg?cache=unique-parameter">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/banner-light.svg?cache=unique-parameter">
+<img width=85% alt="Mauricio Ortega's Banner" src="https://raw.githubusercontent.com/Nekzus/Nekzus/main/assets/banner-dark.svg?cache=unique-parameter">
 </picture>
   
 </p>
