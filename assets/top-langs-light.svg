@@ -220,7 +220,7 @@
           data-testid="lang-progress"
           x="248.64"
           y="0"
-          width="11.36"
+          width="11.35"
           height="8"
           fill="#083fa1"
         />
@@ -294,7 +294,7 @@
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown 0.55%
+        Markdown 0.54%
       </text>
     </g>
   </g></g>
