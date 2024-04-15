@@ -203,10 +203,11 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></p>
--->
+
 ---
 ## My Spotify: 🎧
 
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></p>
 
 ---
+-->
