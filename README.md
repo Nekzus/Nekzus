@@ -119,7 +119,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C628%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C629%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -166,11 +166,11 @@ Linux                    13 hrs 45 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               58 repos            █████████████░░░░░░░░░░░░   51.79 % 
-TypeScript               30 repos            ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JavaScript               58 repos            █████████████░░░░░░░░░░░░   51.33 % 
+TypeScript               30 repos            ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+Astro                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
@@ -180,7 +180,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 21:06:35 UTC
+ Last Updated on 08/05/2024 00:16:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
