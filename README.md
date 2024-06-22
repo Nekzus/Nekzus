@@ -161,7 +161,6 @@ VS Code                  24 hrs 33 mins      ███████████�
 
 💻 Operating System: 
 Linux                    24 hrs 33 mins      █████████████████████████   100.00 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,7 +180,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2024 03:07:23 UTC
+ Last Updated on 22/06/2024 06:08:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
