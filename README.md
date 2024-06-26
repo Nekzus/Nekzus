@@ -174,11 +174,12 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ```
 
 
-
+<!--
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
+-->
 
  Last Updated on 26/06/2024 18:07:40 UTC
 <!--END_SECTION:waka-->
@@ -193,22 +194,8 @@ MDX                      1 repo              ░░░░░░░░░░░�
 </a>
   
 <!--
-<a href="https://github.com/marketplace/actions/github-profile-3d-contrib#gh-dark-mode-only">
-  <img src="/profile-3d-contrib/profile-night-green.svg"/>
-</a>
-<a href="https://github.com/marketplace/actions/github-profile-3d-contrib##gh-light-mode-only">
-  <img src="/profile-3d-contrib/profile-green.svg"/>
-</a>
-
 ---
 
-## Timeline: ⌚
-
-![Chart not found](https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png)
-
-<p align="center"><img src="https://raw.githubusercontent.com/Nekzus/Nekzus/master/charts/bar_graph.png"/></p>
-
----
 ## My Spotify: 🎧
 
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11169970531&cover_image=true&theme=default" /></p>
