@@ -150,16 +150,13 @@ Sunday                   134 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JSON                     14 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
-YAML                     14 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
-Bash                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,7 +176,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2024 00:23:18 UTC
+ Last Updated on 27/09/2024 06:09:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
