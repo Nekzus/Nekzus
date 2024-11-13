@@ -119,7 +119,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C819%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C820%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -150,13 +150,18 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               49 mins             █████████████░░░░░░░░░░░░   52.91 % 
+JSON                     25 mins             ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 32 mins        █████████████████████████   98.09 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,7 +181,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2024 03:10:27 UTC
+ Last Updated on 13/11/2024 06:09:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
