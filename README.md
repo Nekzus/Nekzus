@@ -119,7 +119,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C630%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C630%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -150,13 +150,16 @@ Sunday                   209 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               11 mins             █████████████████████████   100.00 % 
+TypeScript               11 mins             ████████████░░░░░░░░░░░░░   48.39 % 
+HTML                     11 mins             ███████████░░░░░░░░░░░░░░   45.50 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🔥 Editors: 
-Cursor                   11 mins             █████████████████████████   100.00 % 
+Cursor                   13 mins             ██████████████░░░░░░░░░░░   54.50 % 
+VS Code                  11 mins             ███████████░░░░░░░░░░░░░░   45.50 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,7 +179,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2025 03:29:26 UTC
+ Last Updated on 13/11/2025 06:11:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
