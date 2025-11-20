@@ -150,15 +150,13 @@ Sunday                   209 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-HTML                     11 mins             ██████████████████████░░░   88.17 % 
-Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             ██████████████████████░░░   88.17 % 
-Cursor                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,7 +176,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 03:26:41 UTC
+ Last Updated on 20/11/2025 06:11:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
