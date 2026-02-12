@@ -119,7 +119,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C710%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C714%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -150,11 +150,11 @@ Sunday                   348 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Bash                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-JSON                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+TypeScript               3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
+JSON                     2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+YAML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +174,7 @@ Astro                    4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 03:58:43 UTC
+ Last Updated on 12/02/2026 06:31:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
