@@ -150,11 +150,11 @@ Sunday                   502 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-JSON                     6 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-TypeScript               4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Markdown                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-YAML                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Other                    7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+JSON                     5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Python                   5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Markdown                 4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+TypeScript               3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +174,7 @@ MDX                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 07:21:59 UTC
+ Last Updated on 07/08/2026 10:05:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
