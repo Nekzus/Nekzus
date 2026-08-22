@@ -119,28 +119,28 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C104%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C104%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-🌆 Daytime                1222 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌃 Evening                1792 commits        ████████████░░░░░░░░░░░░░   47.41 % 
+🌆 Daytime                1223 commits        ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌃 Evening                1792 commits        ████████████░░░░░░░░░░░░░   47.39 % 
 🌙 Night                  505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   607 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Tuesday                  435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Monday                   607 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Tuesday                  435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 Wednesday                512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 Thursday                 457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 Friday                   673 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Saturday                 587 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Sunday                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 588 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Sunday                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -174,7 +174,7 @@ MDX                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 15:26:49 UTC
+ Last Updated on 22/08/2026 18:35:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
