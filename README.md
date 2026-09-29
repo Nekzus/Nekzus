@@ -121,23 +121,23 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C209%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-935.3%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-🌆 Daytime                1397 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌃 Evening                2027 commits        ████████████░░░░░░░░░░░░░   48.20 % 
+🌆 Daytime                1398 commits        ████████░░░░░░░░░░░░░░░░░   33.24 % 
+🌃 Evening                2027 commits        ████████████░░░░░░░░░░░░░   48.19 % 
 🌙 Night                  508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   698 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Tuesday                  486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Tuesday                  487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Wednesday                500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Thursday                 507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Thursday                 507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 Friday                   709 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 Saturday                 741 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
 Sunday                   564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
@@ -150,11 +150,11 @@ Sunday                   564 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    9 hrs 42 mins       ███████████████████░░░░░░   74.61 % 
-YAML                     2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    4 hrs 54 mins       ██████████████████░░░░░░░   73.30 % 
+YAML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +174,7 @@ MDX                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 04:53:22 UTC
+ Last Updated on 29/09/2026 19:56:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
