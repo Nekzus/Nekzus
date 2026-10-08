@@ -121,7 +121,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C209%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-966.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-967.9%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -150,9 +150,7 @@ Sunday                   564 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    31 mins             ███████████████████░░░░░░   75.21 % 
-Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown                 5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +170,7 @@ MDX                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 00:50:36 UTC
+ Last Updated on 08/10/2026 10:16:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
