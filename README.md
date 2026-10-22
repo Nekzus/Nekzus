@@ -119,7 +119,7 @@
 
 ## My waka stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C223%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -127,20 +127,20 @@
 
 ```text
 🌞 Morning                279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-🌆 Daytime                1419 commits        ████████░░░░░░░░░░░░░░░░░   33.29 % 
-🌃 Evening                2053 commits        ████████████░░░░░░░░░░░░░   48.16 % 
-🌙 Night                  512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+🌆 Daytime                1419 commits        ████████░░░░░░░░░░░░░░░░░   33.25 % 
+🌃 Evening                2053 commits        ████████████░░░░░░░░░░░░░   48.10 % 
+🌙 Night                  517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   703 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Tuesday                  523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Wednesday                532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Thursday                 507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Friday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Saturday                 735 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Sunday                   567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Monday                   703 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Tuesday                  523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Wednesday                532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Thursday                 512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Saturday                 735 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Sunday                   567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 
 
@@ -150,11 +150,11 @@ Sunday                   567 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JavaScript               6 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.57 % 
-Markdown                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Python                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Other                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JavaScript               11 hrs 4 mins       ████████████░░░░░░░░░░░░░   49.04 % 
+Python                   5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Other                    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +174,7 @@ MDX                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 03:49:34 UTC
+ Last Updated on 22/10/2026 11:26:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
