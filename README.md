@@ -126,21 +126,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-🌆 Daytime                1428 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-🌃 Evening                2056 commits        ████████████░░░░░░░░░░░░░   48.00 % 
-🌙 Night                  519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+🌞 Morning                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+🌆 Daytime                1415 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌃 Evening                2014 commits        ████████████░░░░░░░░░░░░░   47.84 % 
+🌙 Night                  501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   703 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Thursday                 520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Friday                   697 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Saturday                 739 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Sunday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Monday                   700 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Tuesday                  511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                513 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Friday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Saturday                 731 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Sunday                   555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 ```
 
 
@@ -150,11 +150,11 @@ Sunday                   568 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JavaScript               5 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
-Python                   3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-C                        1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+C                        1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+JavaScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+RGBDS Assembly           30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +174,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nekzus/Nekzus/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 00:44:08 UTC
+ Last Updated on 29/10/2026 09:37:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile 3D Dark/Light Mode -->
